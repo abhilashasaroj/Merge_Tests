@@ -117,6 +117,7 @@ for j in range(len(cc_list)):
 		            print(j)
 		            print(k)
 		            print(cc_list[j][k])
+			    print("changes")
 
 
     		## STEP 10: Run Simulation Step and Increment Value of i
